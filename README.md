@@ -7,7 +7,7 @@ A mobile app project made with React Native.
 
 ## 🚀 Starting
 
-To start the project, just open the file `index.html` in your preferred browser.
+To start the project, just type `npm start` and then you are going to scan the QR CODE to start the project on Expo.
 
 ---
 ##### This project was made with the help of One Bit Code's tutorial on Youtube.
